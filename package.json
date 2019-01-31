@@ -1,0 +1,22 @@
+{
+  "name": "medium-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwjohnston/medium-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwjohnston/medium-blog/issues"
+  },
+  "homepage": "https://github.com/dwjohnston/medium-blog#readme",
+  "devDependencies": {
+    "markdown-to-medium": "^1.4.4"
+  }
+}
